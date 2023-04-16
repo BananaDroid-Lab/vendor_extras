@@ -160,11 +160,13 @@ PRODUCT_PACKAGES += \
         DottedSignalOverlay \
         EqualSignalOverlay \
         FanSignalOverlay \
+        GradiconSignalOverlay \
         HeartbeatSignalOverlay \
         HuaweiSignalOverlay \
         InsideSignalOverlay \
         IosSignalOverlay \
         MiniSignalOverlay \
+        NothingDotSignalOverlay \
         OdinSignalOverlay \
         PillsSignalOverlay \
         RelSignalOverlay \
@@ -186,7 +188,9 @@ PRODUCT_PACKAGES += \
 # Icons Wifi
 PRODUCT_PACKAGES += \
 	BarsWiFiOverlay \
+        GradiconWiFiOverlay \
 	InsideWiFiOverlay \
+        NothingDotWiFiOverlay \
 	RoundWiFiOverlay \
 	SneakyWiFiOverlay \
 	StrokeWiFiOverlay \
