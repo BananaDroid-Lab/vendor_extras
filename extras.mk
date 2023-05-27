@@ -5,8 +5,15 @@ include vendor/extras/bootanimation/bootanimation.mk
 PRODUCT_PACKAGES += \
     BrightnessSliderAcunOverlay \
     BrightnessSliderBangOverlay \
+    BrightnessSliderCyberpunkOverlay \
     BrightnessSliderFilledOverlay \
-    BrightnessSliderThinOverlay
+    BrightnessSliderLeafyOutlineOverlay \
+    BrightnessSliderMinimalThumbOverlay \
+    BrightnessSliderOutlineOverlay \
+    BrightnessSliderRoundedClipOverlay \
+    BrightnessSliderShadedOverlay \
+    BrightnessSliderThinOverlay \
+    BrightnessSliderTranslucentOverlay
 
 # Custom Icons
 PRODUCT_PACKAGE_OVERLAYS += \
